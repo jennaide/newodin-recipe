@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f0f9f9;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #0f0e0e;
+    font-size: 100px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    padding: 10px;
+    color: #0f0e0e;
+    font-size: 40px;
+    text-decoration: none;
+    display:inline;
+    border: solid black;
+    background-color: rgb(194, 226, 16);
+}
+
+
